@@ -1,0 +1,13 @@
+This python3 script mimics a hardware usb mouse jiggler
+
+screen is seen as quadrants...
+
+   one   ||  two
+  ===============
+  three  ||  four
+
+when mouse is in quadrant one jiggling will work when the mouse is moved to any other quadrant it stops jiggling
+
+daftie wee program as I lost my hardware jiggler!!
+
+Also converted to a Windows exe and works on the wife's Win7 PC.
