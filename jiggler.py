@@ -13,7 +13,7 @@ tuplehalfsizeplus = tuple(halfsizeplus)
 whereismouse = pyautogui.position() # returns tuple
 x = 0
 
-print("\n\n\t\t\t**** JIGGLING ****\n\n\n")
+print("\n\n\t\t\t*** JIGGLING ***\n\n\n")
 
 while (whereismouse < tuplehalfsize):  # top left quadrant of screen
     for x in range(0,5): # jiggle 5 times
